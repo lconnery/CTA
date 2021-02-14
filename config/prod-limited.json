@@ -1,0 +1,8 @@
+{
+  "app_name": "CTA_Tracker",
+  "logging_directory": "/var/log/CTA",
+  "cta_line": "red",
+  "request_url": "http://lapi.transitchicago.com/api/1.0/ttpositions.aspx",
+  "update_interval_seconds": 20,
+  "path_to_station_config": "config/stations/RedLineStation-Limited.json"
+}

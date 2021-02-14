@@ -19,9 +19,11 @@ class DisplayManager(object):
 
     def __add_new_station_node(self, node_data: dict):
         try:
-            station_id, station_name = node_data.values()
+            station_id, station_name, gpio_index = node_data.values()
             station_node = StationNode(station_id=station_id,
-                                       station_name=station_name)
+                                       station_name=station_name,
+                                       gpio_index=gpio_index)
+
             self.stations.append(station_node)
         except Exception as err:
             logging.error(f"Unable to create station node with '{node_data}'...errMsg: {err}")

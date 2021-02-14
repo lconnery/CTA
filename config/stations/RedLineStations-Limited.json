@@ -1,0 +1,37 @@
+[
+  {
+    "parent_station_id": "41660",
+    "station_name": "Lake",
+    "gpio_index": 2
+  },
+  {
+    "parent_station_id": "41090",
+    "station_name": "Monroe",
+    "gpio_index": 3
+  },
+  {
+    "parent_station_id": "40560",
+    "station_name": "Jackson",
+    "gpio_index": 4
+  },
+  {
+    "parent_station_id": "41490",
+    "station_name": "Harrison",
+    "gpio_index": 5
+  },
+  {
+    "parent_station_id": "41400",
+    "station_name": "Roosevelt",
+    "gpio_index": 6
+  },
+  {
+    "parent_station_id": "41000",
+    "station_name": "Cermak-Chinatown",
+    "gpio_index": 7
+  },
+  {
+    "parent_station_id": "40190",
+    "station_name": "Sox-35th",
+    "gpio_index": 8
+  }
+]
