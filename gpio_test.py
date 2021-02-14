@@ -3,13 +3,6 @@ import json
 import time
 import RPi.GPIO as GPIO
 
-GPIO.setup(2,GPIO.OUT)
-print('GPIO 2 on')
-GPIO.output(2,GPIO.HIGH)
-time.sleep(10)
-print('GPIO 2 off')
-GPIO.output(2,GPIO.LOW)
-
 
 def main(path_to_config: str):
     config_data = get_config_data(path_to_config=path_to_config)
