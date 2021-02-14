@@ -1,0 +1,312 @@
+[
+  {
+    "station_id": "30224",
+    "p_station_id": "41170",
+    "station_name": "Garfield"
+  },
+  {
+    "station_id": "30121",
+    "p_station_id": "40630",
+    "station_name": "Clark/Division"
+  },
+  {
+    "station_id": "30280",
+    "p_station_id": "41450",
+    "station_name": "Chicago"
+  },
+  {
+    "station_id": "30017",
+    "p_station_id": "40080",
+    "station_name": "Sheridan"
+  },
+  {
+    "station_id": "30105",
+    "p_station_id": "40540",
+    "station_name": "Wilson"
+  },
+  {
+    "station_id": "30255",
+    "p_station_id": "41320",
+    "station_name": "Belmont"
+  },
+  {
+    "station_id": "30251",
+    "p_station_id": "41300",
+    "station_name": "Loyola"
+  },
+  {
+    "station_id": "30036",
+    "p_station_id": "40190",
+    "station_name": "Sox-35th"
+  },
+  {
+    "station_id": "30177",
+    "p_station_id": "40910",
+    "station_name": "63rd"
+  },
+  {
+    "station_id": "30178",
+    "p_station_id": "40910",
+    "station_name": "63rd"
+  },
+  {
+    "station_id": "30125",
+    "p_station_id": "40650",
+    "station_name": "North/Clybourn"
+  },
+  {
+    "station_id": "30065",
+    "p_station_id": "40330",
+    "station_name": "Grand"
+  },
+  {
+    "station_id": "30229",
+    "p_station_id": "41200",
+    "station_name": "Argyle"
+  },
+  {
+    "station_id": "30020",
+    "p_station_id": "40100",
+    "station_name": "Morse"
+  },
+  {
+    "station_id": "30290",
+    "p_station_id": "41660",
+    "station_name": "Lake"
+  },
+  {
+    "station_id": "30066",
+    "p_station_id": "40340",
+    "station_name": "Berwyn"
+  },
+  {
+    "station_id": "30273",
+    "p_station_id": "41420",
+    "station_name": "Addison"
+  },
+  {
+    "station_id": "30193",
+    "p_station_id": "41000",
+    "station_name": "Cermak-Chinatown"
+  },
+  {
+    "station_id": "30223",
+    "p_station_id": "41170",
+    "station_name": "Garfield"
+  },
+  {
+    "station_id": "30021",
+    "p_station_id": "40100",
+    "station_name": "Morse"
+  },
+  {
+    "station_id": "30192",
+    "p_station_id": "40990",
+    "station_name": "69th"
+  },
+  {
+    "station_id": "30212",
+    "p_station_id": "41090",
+    "station_name": "Monroe"
+  },
+  {
+    "station_id": "30267",
+    "p_station_id": "41380",
+    "station_name": "Bryn Mawr"
+  },
+  {
+    "station_id": "30016",
+    "p_station_id": "40080",
+    "station_name": "Sheridan"
+  },
+  {
+    "station_id": "30227",
+    "p_station_id": "41190",
+    "station_name": "Jarvis"
+  },
+  {
+    "station_id": "30233",
+    "p_station_id": "41220",
+    "station_name": "Fullerton"
+  },
+  {
+    "station_id": "30110",
+    "p_station_id": "40560",
+    "station_name": "Jackson"
+  },
+  {
+    "station_id": "30274",
+    "p_station_id": "41420",
+    "station_name": "Addison"
+  },
+  {
+    "station_id": "30237",
+    "p_station_id": "41230",
+    "station_name": "47th"
+  },
+  {
+    "station_id": "30252",
+    "p_station_id": "41300",
+    "station_name": "Loyola"
+  },
+  {
+    "station_id": "30047",
+    "p_station_id": "40240",
+    "station_name": "79th"
+  },
+  {
+    "station_id": "30169",
+    "p_station_id": "40880",
+    "station_name": "Thorndale"
+  },
+  {
+    "station_id": "30269",
+    "p_station_id": "41400",
+    "station_name": "Roosevelt"
+  },
+  {
+    "station_id": "30275",
+    "p_station_id": "41430",
+    "station_name": "87th"
+  },
+  {
+    "station_id": "30148",
+    "p_station_id": "40760",
+    "station_name": "Granville"
+  },
+  {
+    "station_id": "30286",
+    "p_station_id": "41490",
+    "station_name": "Harrison"
+  },
+  {
+    "station_id": "30256",
+    "p_station_id": "41320",
+    "station_name": "Belmont"
+  },
+  {
+    "station_id": "30046",
+    "p_station_id": "40240",
+    "station_name": "79th"
+  },
+  {
+    "station_id": "30276",
+    "p_station_id": "41430",
+    "station_name": "87th"
+  },
+  {
+    "station_id": "30270",
+    "p_station_id": "41400",
+    "station_name": "Roosevelt"
+  },
+  {
+    "station_id": "30170",
+    "p_station_id": "40880",
+    "station_name": "Thorndale"
+  },
+  {
+    "station_id": "30194",
+    "p_station_id": "41000",
+    "station_name": "Cermak-Chinatown"
+  },
+  {
+    "station_id": "30234",
+    "p_station_id": "41220",
+    "station_name": "Fullerton"
+  },
+  {
+    "station_id": "30285",
+    "p_station_id": "41490",
+    "station_name": "Harrison"
+  },
+  {
+    "station_id": "30191",
+    "p_station_id": "40990",
+    "station_name": "69th"
+  },
+  {
+    "station_id": "30089",
+    "p_station_id": "40450",
+    "station_name": "95th/Dan Ryan"
+  },
+  {
+    "station_id": "30109",
+    "p_station_id": "40560",
+    "station_name": "Jackson"
+  },
+  {
+    "station_id": "30268",
+    "p_station_id": "41380",
+    "station_name": "Bryn Mawr"
+  },
+  {
+    "station_id": "30126",
+    "p_station_id": "40650",
+    "station_name": "North/Clybourn"
+  },
+  {
+    "station_id": "30211",
+    "p_station_id": "41090",
+    "station_name": "Monroe"
+  },
+  {
+    "station_id": "30067",
+    "p_station_id": "40340",
+    "station_name": "Berwyn"
+  },
+  {
+    "station_id": "30037",
+    "p_station_id": "40190",
+    "station_name": "Sox-35th"
+  },
+  {
+    "station_id": "30289",
+    "p_station_id": "41660",
+    "station_name": "Lake"
+  },
+  {
+    "station_id": "30230",
+    "p_station_id": "41200",
+    "station_name": "Argyle"
+  },
+  {
+    "station_id": "30064",
+    "p_station_id": "40330",
+    "station_name": "Grand"
+  },
+  {
+    "station_id": "30150",
+    "p_station_id": "40770",
+    "station_name": "Lawrence"
+  },
+  {
+    "station_id": "30122",
+    "p_station_id": "40630",
+    "station_name": "Clark/Division"
+  },
+  {
+    "station_id": "30238",
+    "p_station_id": "41230",
+    "station_name": "47th"
+  },
+  {
+    "station_id": "30173",
+    "p_station_id": "40900",
+    "station_name": "Howard"
+  },
+  {
+    "station_id": "30279",
+    "p_station_id": "41450",
+    "station_name": "Chicago"
+  },
+  {
+    "station_id": "30106",
+    "p_station_id": "40540",
+    "station_name": "Wilson"
+  },
+  {
+    "station_id": "30147",
+    "p_station_id": "40760",
+    "station_name": "Granville"
+  }
+]

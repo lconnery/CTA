@@ -1,0 +1,130 @@
+[
+  {
+    "parent_station_id": "40900",
+    "station_name": "Howard"
+  },
+  {
+    "parent_station_id": "41190",
+    "station_name": "Jarvis"
+  },
+  {
+    "parent_station_id": "40100",
+    "station_name": "Morse"
+  },
+  {
+    "parent_station_id": "41300",
+    "station_name": "Loyola"
+  },
+  {
+    "parent_station_id": "40760",
+    "station_name": "Granville"
+  },
+  {
+    "parent_station_id": "40880",
+    "station_name": "Thorndale"
+  },
+  {
+    "parent_station_id": "40340",
+    "station_name": "Berwyn"
+  },
+  {
+    "parent_station_id": "41200",
+    "station_name": "Argyle"
+  },
+  {
+    "parent_station_id": "40770",
+    "station_name": "Lawrence"
+  },
+  {
+    "parent_station_id": "40540",
+    "station_name": "Wilson"
+  },
+  {
+    "parent_station_id": "40080",
+    "station_name": "Sheridan"
+  },
+  {
+    "parent_station_id": "41420",
+    "station_name": "Addison"
+  },
+  {
+    "parent_station_id": "41320",
+    "station_name": "Belmont"
+  },
+  {
+    "parent_station_id": "41220",
+    "station_name": "Fullerton"
+  },
+  {
+    "parent_station_id": "40650",
+    "station_name": "North/Clybourn"
+  },
+  {
+    "parent_station_id": "40630",
+    "station_name": "Clark/Division"
+  },
+  {
+    "parent_station_id": "41450",
+    "station_name": "Chicago"
+  },
+  {
+    "parent_station_id": "40330",
+    "station_name": "Grand"
+  },
+  {
+    "parent_station_id": "41660",
+    "station_name": "Lake"
+  },
+  {
+    "parent_station_id": "41090",
+    "station_name": "Monroe"
+  },
+  {
+    "parent_station_id": "40560",
+    "station_name": "Jackson"
+  },
+  {
+    "parent_station_id": "41490",
+    "station_name": "Harrison"
+  },
+  {
+    "parent_station_id": "41400",
+    "station_name": "Roosevelt"
+  },
+  {
+    "parent_station_id": "41000",
+    "station_name": "Cermak-Chinatown"
+  },
+  {
+    "parent_station_id": "40190",
+    "station_name": "Sox-35th"
+  },
+  {
+    "parent_station_id": "41230",
+    "station_name": "47th"
+  },
+  {
+    "parent_station_id": "41170",
+    "station_name": "Garfield"
+  },
+  {
+    "parent_station_id": "40910",
+    "station_name": "63rd"
+  },
+  {
+    "parent_station_id": "40990",
+    "station_name": "69th"
+  },
+  {
+    "parent_station_id": "40240",
+    "station_name": "79th"
+  },
+  {
+    "parent_station_id": "41430",
+    "station_name": "87th"
+  },
+  {
+    "parent_station_id": "40450",
+    "station_name": "95th/Dan Ryan"
+  }
+]
