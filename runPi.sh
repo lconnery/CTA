@@ -2,4 +2,4 @@
 
 export APP_ENV=prod
 
-venv/bin/python main.py ./config/prod-limited.json
+python3 main.py ./config/prod-limited.json
