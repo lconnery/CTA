@@ -4,8 +4,9 @@ import json
 
 class Configuration(object):
 
-    def __init__(self, path_to_config: str):
+    def __init__(self, path_to_config: str, api_key: str):
         self.__config_file = path_to_config
+        self.__api_key = api_key
 
         self.__load_config_data()
         self.__set_props()
@@ -32,6 +33,10 @@ class Configuration(object):
 
         print(f"Config: {key} not found, using default value {default_val}")
         return default_val
+
+    @property
+    def api_key(self) -> str:
+        return self.__api_key
 
     @property
     def app_name(self) -> str:

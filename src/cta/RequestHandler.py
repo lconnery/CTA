@@ -30,6 +30,5 @@ class RequestHandler(object):
     def __add_route(self) -> str:
         return f"&rt={self.config.cta_line}"
 
-    @staticmethod
-    def __add_api_key() -> str:
-        return f"?key={os.environ['API_KEY']}"
+    def __add_api_key(self) -> str:
+        return f"?key={self.config.api_key}"
