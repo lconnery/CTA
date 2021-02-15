@@ -3,6 +3,7 @@ import logging
 
 from src.data import CtaTrain
 from src.data import StationNode
+from src.gpio import PinManger
 
 
 class DisplayManager(object):
@@ -14,6 +15,8 @@ class DisplayManager(object):
         self.__initialize_station_nodes()
 
     def __initialize_station_nodes(self):
+        PinManger.initialize_gpio_settings()  # called once per process
+
         for node_data in self.station_data:
             self.__add_new_station_node(node_data=node_data)
 

@@ -18,7 +18,7 @@ class PinManger(object):
         GPIO.output(self.gpio_index, GPIO.HIGH)
 
     @staticmethod
-    def intialize_gpio_settings():
+    def initialize_gpio_settings():
         GPIO.setmode(GPIO.BCM)
         GPIO.setwarnings(False)
 
